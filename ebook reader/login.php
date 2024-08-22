@@ -18,14 +18,11 @@
                 <h3>Log In</h3>
                 <div class="form-wrapper">
                     <input type="text" name="username" placeholder="Username" class="form-control" required>
-                    <i class="zmdi zmdi-account"></i>
                 </div>
                 <div class="form-wrapper">
                     <input type="password" name="password" placeholder="Password" class="form-control" required>
-                    <i class="zmdi zmdi-lock"></i>
                 </div>
                 <button type="submit" name="submit">Log In
-                    <i class="zmdi zmdi-arrow-right"></i>
                 </button>
             </form>
 
