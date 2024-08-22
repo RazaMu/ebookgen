@@ -16,14 +16,11 @@
                 <h3>Admin Log In</h3>
                 <div class="form-wrapper">
                     <input type="text" name="username" placeholder="Admin Username" class="form-control" required>
-                    <i class="zmdi zmdi-account"></i>
                 </div>
                 <div class="form-wrapper">
                     <input type="password" name="password" placeholder="Admin Password" class="form-control" required>
-                    <i class="zmdi zmdi-lock"></i>
                 </div>
                 <button type="submit" name="submit">Log In
-                    <i class="zmdi zmdi-arrow-right"></i>
                 </button>
                 <p>Not an admin? <a href="login.php">User Login</a></p>
             </form>
