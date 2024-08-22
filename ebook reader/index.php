@@ -22,11 +22,9 @@
                 </div>
                 <div class="form-wrapper">
                     <input type="text" name="username" placeholder="Username" class="form-control" required>
-                    <i class="zmdi zmdi-account"></i>
                 </div>
                 <div class="form-wrapper">
                     <input type="email" name="email" placeholder="Email Address" class="form-control" required>
-                    <i class="zmdi zmdi-email"></i>
                 </div>
                 <div class="form-wrapper">
                     <select name="gender" id="" class="form-control" required>
@@ -35,18 +33,14 @@
                         <option value="female">Female</option>
                         <option value="other">Other</option>
                     </select>
-                    <i class="zmdi zmdi-caret-down" style="font-size: 17px"></i>
                 </div>
                 <div class="form-wrapper">
                     <input type="password" name="password" placeholder="Password" class="form-control" required>
-                    <i class="zmdi zmdi-lock"></i>
                 </div>
                 <div class="form-wrapper">
                     <input type="password" name="confirm_password" placeholder="Confirm Password" class="form-control" required>
-                    <i class="zmdi zmdi-lock"></i>
                 </div>
                 <button type="submit" name="submit">Register
-                    <i class="zmdi zmdi-arrow-right"></i>
                 </button>
             </form>
 
